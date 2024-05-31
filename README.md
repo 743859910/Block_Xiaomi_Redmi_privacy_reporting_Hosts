@@ -2,7 +2,7 @@
 
 ---
 
-<div align="center"><img src="https://raw.gitmirror.com/743859910/Block_Xiaomi_privacy_reporting_Hosts/blob/master/img/logo.webp" alt="Hosts Logo" height="100"/></div>
+<div align="center"><img src="https://raw.gitmirror.com/743859910/Block_Xiaomi_privacy_reporting_Hosts/master/img/logo.webp" alt="Hosts Logo" height="100"/></div>
 
 ---
 
