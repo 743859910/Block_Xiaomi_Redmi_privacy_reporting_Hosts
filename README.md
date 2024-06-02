@@ -1,43 +1,43 @@
-# Block_Xiaomi_privacy_reporting_Hosts
+# Block_Xiaomi_Redmi_privacy_reporting_Hosts
 
 ---
 
-<div align="center"><img src="https://raw.gitmirror.com/743859910/Block_Xiaomi_privacy_reporting_Hosts/master/img/logo.webp" alt="Hosts Logo" height="100"/></div>
+<div align="center"><img src="https://raw.gitmirror.com/743859910/Block_Xiaomi_Redmi_privacy_reporting_Hosts/master/img/logo.webp" alt="Hosts Logo" height="100"/></div>
 
 ---
 
-| 仓库链接 | [Block_Xiaomi_privacy_reporting_Hosts](https://github.com/743859910/Block_Xiaomi_privacy_reporting_Hosts) |
+| 仓库链接 | [Block_Xiaomi_Redmi_privacy_reporting_Hosts](https://github.com/743859910/Block_Xiaomi_Redmi_privacy_reporting_Hosts) |
 | :------: | :----------------------------------------------------------: |
-| 加速链接 | [Block_Xiaomi_privacy_reporting_Hosts.txt](https://raw.gitmirror.com/743859910/Block_Xiaomi_privacy_reporting_Hosts/master/Block_Xiaomi_privacy_reporting_Hosts.txt) |
-| 原始链接 | [Block_Xiaomi_privacy_reporting_Hosts.txt](https://github.com/743859910/Block_Xiaomi_privacy_reporting_Hosts/blob/master/Block_Xiaomi_privacy_reporting_Hosts.txt) |
-| 原始链接 | [Block_Xiaomi_privacy_reporting_Hosts.txt](https://raw.githubusercontent.com/743859910/Block_Xiaomi_privacy_reporting_Hosts/master/Block_Xiaomi_privacy_reporting_Hosts.txt) |
-| 加速链接 | [Block_Xiaomi_privacy_reporting_Hosts.txt](https://raw.gitmirror.com/743859910/Block_Xiaomi_privacy_reporting_Hosts/master/Block_Xiaomi_privacy_reporting_Hosts.txt) |
+| 加速链接 | [Block_Xiaomi_Redmi_privacy_reporting_Hosts.txt](https://raw.gitmirror.com/743859910/Block_Xiaomi_Redmi_privacy_reporting_Hosts/master/Block_Xiaomi_Redmi_privacy_reporting_Hosts.txt) |
+| 原始链接 | [Block_Xiaomi_Redmi_privacy_reporting_Hosts.txt](https://github.com/743859910/Block_Xiaomi_Redmi_privacy_reporting_Hosts/blob/master/Block_Xiaomi_Redmi_privacy_reporting_Hosts.txt) |
+| 原始链接 | [Block_Xiaomi_Redmi_privacy_reporting_Hosts.txt](https://raw.githubusercontent.com/743859910/Block_Xiaomi_Redmi_privacy_reporting_Hosts/master/Block_Xiaomi_Redmi_privacy_reporting_Hosts.txt) |
+| 加速链接 | [Block_Xiaomi_Redmi_privacy_reporting_Hosts.txt](https://raw.gitmirror.com/743859910/Block_Xiaomi_Redmi_privacy_reporting_Hosts/master/Block_Xiaomi_Redmi_privacy_reporting_Hosts.txt) |
 
 ---
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/Block_Xiaomi_privacy_reporting_Hosts/master/img/1.webp">
+  <img src="https://raw.gitmirror.com/743859910/Block_Xiaomi_Redmi_privacy_reporting_Hosts/master/img/1.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/Block_Xiaomi_privacy_reporting_Hosts/master/img/2.webp">
+  <img src="https://raw.gitmirror.com/743859910/Block_Xiaomi_Redmi_privacy_reporting_Hosts/master/img/2.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/Block_Xiaomi_privacy_reporting_Hosts/master/img/3.webp">
+  <img src="https://raw.gitmirror.com/743859910/Block_Xiaomi_Redmi_privacy_reporting_Hosts/master/img/3.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/Block_Xiaomi_privacy_reporting_Hosts/master/img/4.webp">
+  <img src="https://raw.gitmirror.com/743859910/Block_Xiaomi_Redmi_privacy_reporting_Hosts/master/img/4.webp">
 </p>
 
 <p align="center">
-  <img src="https://raw.gitmirror.com/743859910/Block_Xiaomi_privacy_reporting_Hosts/master/img/5.webp">
+  <img src="https://raw.gitmirror.com/743859910/Block_Xiaomi_Redmi_privacy_reporting_Hosts/master/img/5.webp">
 </p>
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/{Block_Xiaomi_privacy_reporting_Hosts}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Block_Xiaomi_Redmi_privacy_reporting_Hosts}/count.svg)
 
 ---
 
