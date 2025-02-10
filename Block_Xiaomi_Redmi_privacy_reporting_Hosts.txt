@@ -160,6 +160,7 @@
 127.0.0.1 zeus.ad.intl.xiaomi.com
 127.0.0.1 zeus.ad.xiaomi.com
 
+# Update time: 2025-02-10
 # Update url: https://raw.gitmirror.com/743859910/Block_Xiaomi_Redmi_privacy_reporting_Hosts/master/Block_Xiaomi_Redmi_privacy_reporting_Hosts.txt
 # Star me: https://github.com/743859910/Block_Xiaomi_Redmi_privacy_reporting_Hosts
 # Block_Xiaomi_Redmi_privacy_reporting_Hosts End
